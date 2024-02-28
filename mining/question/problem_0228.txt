@@ -1,0 +1,14 @@
+***目前主要遇到問題***
+以Files_100為例
+
+*FN
+    1.有幾個FN沒有以任何標號及符號開頭, 無法抓取
+    2.目前只看到一個FN裡面有 HN[] 因字體及大小不符合設定會忽略
+
+*HN
+    ][15A]LEdHN[15B][ 會抓到類似這種 " LEdHN " 的內容  , 
+    算是另外一種Headnotes底下的內容, 位於 Lawyers' Edition Display 及 Syllabus之間
+
+
+*Opinion,Counsel,Judges
+    會抓到一些以 " * "開頭的FN 無法避免

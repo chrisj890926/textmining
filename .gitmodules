@@ -1,0 +1,3 @@
+[submodule "new_textmining"]
+	path = new_textmining
+	url = https://github.com/chrisj890926/textmining.git
