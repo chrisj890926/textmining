@@ -1,0 +1,66 @@
+data_100
+
+Core Terms 100個
+大部分後面為
+LexisNexis® Headnotes
+少部分 
+2個Counsel: p296 & p423
+3個Opinion p669 & 1237 & 1437
+ ---------------------------------------------------------------------------------------------------------------------
+
+LexisNexis® Headnotes 95個
+沒變 一樣是 Core Terms & HN1 之間
+
+---------------------------------------------------------------------------------------------------------------------
+HN 上界 LexisNexis® Headnotes (95個) 下界 Lawyers' Edition Display (95個)
+應該好處理 設上下界就好
+
+p119 無 " > "
+p1112 , 1198跨頁
+---------------------------------------------------------------------------------------------------------------------
+
+上界Syllabus 95個 下界Opinion
+
+Counsel: 96個 
+
+p484: 出現在footnotes
+
+p423: 只有一個Counsel
+
+Core Terms
+rates, anti trust law, Stock, Securities Exchange Act, shares
+
+Counsel: Anthony Bradley Eben and Peyton Ford for petitioners. Hammond E. Chaffetz for respondents Lehman 
+Brothers et al., and John T. Chadwell and Richard M. Keck for respondent New York Stock Exchange. 
+
+Opinion
+ [*954] [***365] Certiorari denied. MR. JUSTICE MARSHALL took no part in the consideration or decision of this 
+petition. 
+Dissent by: WARREN 
+Dissent
+
+p698 有機會出錯
+p1063特別長 跨頁
+
+p1087 Judges跨頁
+p1201 & 1749 Counsel跨頁
+p1304 & p1628 &p1654 &p1876 & 1940 &1963 中間卡一個超長Footnotes
+---------------------------------------------------------------------------------------------------------------------
+
+Judges: 94個
+
+p471沒有Judges
+
+---------------------------------------------------------------------------------------------------------------------
+
+Opinion by: 95個
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Footnotes
+旁邊都會有個小標 或是像p297 *號  
+大部分出現在這些下面
+Dissent
+References p331
+Opinion
